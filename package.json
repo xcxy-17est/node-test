@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xcxy-17est/node-test/issues"
   },
-  "homepage": "https://github.com/xcxy-17est/node-test#readme"
+  "homepage": "https://github.com/xcxy-17est/node-test#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
